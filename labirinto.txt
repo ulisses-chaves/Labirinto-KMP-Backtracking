@@ -1,0 +1,12 @@
+8
+1 3
+7 5
+0 v 0 a 0 v 0 0
+a r 0 r l r a 0
+r 0 a v a l 0 v
+0 v 0 r l 0 r r
+a l l 0 r a l 0
+0 0 v a a 0 v a
+v r 0 r 0 r l 0
+l 0 l v v a r v
+lral
